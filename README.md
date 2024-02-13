@@ -9,8 +9,7 @@ If the player takes a pickaxe - he can carve mountains and turn them into grass
 Important ! : To carve in the mountains you must take the goat (so you can stand on the mountain) then press X
 And the mountain will turn into grass!
 
-
-You can try the game on [Click Here]((https://liron02319.itch.io/ex6-unitypart1))
+You can try the game on [Click Here](https://liron02319.itch.io/ex6-unitypart1)
 
 Before cutting the mountain
 
